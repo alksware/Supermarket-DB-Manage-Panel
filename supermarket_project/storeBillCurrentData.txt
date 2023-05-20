@@ -1,0 +1,30 @@
+ProductID: 2
+ProductBrand: Adidas
+ProductModel: Harden
+ProductAmount: 2500
+ProductPrice: 399.6
+-----------------------
+ProductID: 1
+ProductBrand: Adidas
+ProductModel: Harden VOl5
+ProductAmount: 2330
+ProductPrice: 400
+-----------------------
+ProductID: 3
+ProductBrand: Nike
+ProductModel: Storm 2
+ProductAmount: 200
+ProductPrice: 789,99
+-----------------------
+ProductID: 4
+ProductBrand: Nike
+ProductModel: Alk 1
+ProductAmount: 4500
+ProductPrice: 675,54
+-----------------------
+ProductID: 5
+ProductBrand: Nike
+ProductModel: Storm 3
+ProductAmount: 250
+ProductPrice: 800,99
+-----------------------
